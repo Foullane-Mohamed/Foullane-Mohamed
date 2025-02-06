@@ -7,7 +7,7 @@ I'm a passionate developer focused on creating impactful solutions. I love learn
 - **Languages:** JavaScript, php
 - **Frontend:** React.js, tailwindcss, bootstrap 5
 - **Backend:** Node.js, Express , Laravel
-- **Database:** MongoDB, Mysql ,PostgreSQL
+- **Database:** MongoDB, Mysql 
 - **Tools:** Git, Docker
 
 
