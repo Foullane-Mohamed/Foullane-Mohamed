@@ -1,7 +1,7 @@
 # 👋 Hi , I'm Mohamed Foullane
 
 ### 🚀 About Me
-I'm a passionate developer focused on creating impactful solutions. I love learning new technologies and contributing to open-source projects.
+I'm a passionate developer focused on creating impactful solutions. I love learning new technologies .
 
 ### 🛠️ Tech Stack
 - **Languages:** JavaScript, php
